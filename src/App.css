@@ -92,3 +92,9 @@ a {
     transform: scale(1);
   }
 }
+
+@media screen and (max-width: 700px) {
+  .section__padding {
+    padding: 4rem;
+  }
+}
