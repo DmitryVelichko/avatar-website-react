@@ -23,5 +23,8 @@
     font-family: var(--font-family);
     color: var(--color-text);
     font-weight: normal;
-    
+    font-style: normal;
+    font-size: 20px;
+    line-height: 27px;
+    margin-top: 1.5rem;
  }
