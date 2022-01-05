@@ -18,3 +18,10 @@
    line-height: 75px;
    letter-spacing: -0.04em;
 }
+
+.gpt3__header-content p {
+    font-family: var(--font-family);
+    color: var(--color-text);
+    font-weight: normal;
+    
+ }
