@@ -30,6 +30,12 @@
  }
 
  .gpt3__header-content__input {
+     display: flex;
      width: 100%;
      margin: 2rem 0 1rem;
  }
+
+ .gpt3__header-content__input input {
+   background: #052d56;
+   border-radius: 5px 0 0 5px;
+}
