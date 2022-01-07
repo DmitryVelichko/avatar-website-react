@@ -45,4 +45,6 @@
   font-size: 20px;
   line-height: 27px;
   color: #3d6184;
+  border: 2px solid var(--color-footer);
+  padding: 0 1rem;
 }
