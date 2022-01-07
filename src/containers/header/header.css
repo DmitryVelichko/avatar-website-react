@@ -52,6 +52,8 @@
 }
 
 .gpt3__header-content__input button {
+    flex: 0.6;
     background: #ff4820;
     border-radius: 5px 0 0 5px;
+    transform: matrix(-1,0,0,1,0,0);
 }
