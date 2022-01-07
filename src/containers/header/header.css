@@ -1,47 +1,49 @@
 .gpt3__header {
-    display: flex;
+  display: flex;
 }
 
 .gpt3__header-content {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    margin-right: 5rem;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-right: 5rem;
 }
 
 .gpt3__header-content h1 {
-   font-family: var(--font-family);
-   font-weight: 800;
-   font-size: 62px;
-   line-height: 75px;
-   letter-spacing: -0.04em;
+  font-family: var(--font-family);
+  font-weight: 800;
+  font-size: 62px;
+  line-height: 75px;
+  letter-spacing: -0.04em;
 }
 
 .gpt3__header-content p {
-    font-family: var(--font-family);
-    color: var(--color-text);
-    font-weight: normal;
-    font-style: normal;
-    font-size: 20px;
-    line-height: 27px;
-    margin-top: 1.5rem;
- }
+  font-family: var(--font-family);
+  color: var(--color-text);
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 27px;
+  margin-top: 1.5rem;
+}
 
- .gpt3__header-content__input {
-     display: flex;
-     width: 100%;
-     margin: 2rem 0 1rem;
- }
+.gpt3__header-content__input {
+  display: flex;
+  width: 100%;
+  margin: 2rem 0 1rem;
+}
 
- .gpt3__header-content__input input {
-   background: #052d56;
-   border-radius: 5px 0 0 5px;
-   font-family: Manrope;
-   font-style: normal;
-   font-weight: normal;
-   font-size: 20px;
-   line-height: 27px;
-   color: #3d6184;
+.gpt3__header-content__input input {
+  flex: 2;
+  width: 100%;
+  background: #052d56;
+  border-radius: 5px 0 0 5px;
+  font-family: Manrope;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 27px;
+  color: #3d6184;
 }
