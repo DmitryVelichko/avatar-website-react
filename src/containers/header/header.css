@@ -40,10 +40,8 @@
   width: 100%;
   min-height: 50px;
   font-family: var(--font-family);
-  background: #052d56;
+  background: var(--color-footer);
   border-radius: 5px 0 0 5px;
-  font-style: normal;
-  font-weight: normal;
   font-size: 20px;
   line-height: 27px;
   color: #3d6184;
