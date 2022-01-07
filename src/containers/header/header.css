@@ -3,8 +3,8 @@
 }
 
 .gpt3__header-content {
-  flex: 1;
   display: flex;
+  flex: 1;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
@@ -38,9 +38,10 @@
 .gpt3__header-content__input input {
   flex: 2;
   width: 100%;
+  min-height: 50px;
+  font-family: var(--font-family);
   background: #052d56;
   border-radius: 5px 0 0 5px;
-  font-family: Manrope;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
