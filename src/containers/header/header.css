@@ -38,4 +38,10 @@
  .gpt3__header-content__input input {
    background: #052d56;
    border-radius: 5px 0 0 5px;
+   font-family: Manrope;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 20px;
+   line-height: 27px;
+   color: #3d6184;
 }
