@@ -57,7 +57,12 @@
     min-height: 50px;
     background: #ff4820;
     border-radius: 5px 0 0 5px;
-    transform: matrix(-1,0,0,1,0,0);
     font-family: var(--font-family);
-    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px;
+    color: #fff;
+    cursor: pointer;
+    outline: none;
+    padding: 0 1rem;
 }
