@@ -53,21 +53,21 @@
 }
 
 .gpt3__header-content__input button {
-    flex: 0.6;
-    width: 100%;
-    min-height: 50px;
-    background: #ff4820;
-    font-family: var(--font-family);
-    font-weight: bold;
-    font-size: 20px;
-    line-height: 27px;
-    color: #fff;
-    cursor: pointer;
-    outline: none;
-    padding: 0 1rem;
-    border: none;
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
+  flex: 0.6;
+  width: 100%;
+  min-height: 50px;
+  background: #ff4820;
+  font-family: var(--font-family);
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  color: #fff;
+  cursor: pointer;
+  outline: none;
+  padding: 0 1rem;
+  border: none;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
 }
 
 .gpt3__header-content__people {
@@ -121,9 +121,22 @@
     line-height: 60px;
   }
 
- .gpt3__header p {
-  font-size: 16px;
-  line-height: 24px;
- }
+  .gpt3__header p {
+    font-size: 16px;
+    line-height: 24px;
+  }
 
+  .gpt3__header-content__people {
+    flex-direction: column;
+  }
+
+  .gpt3__header-content__people p {
+    margin: 0;
+  }
+
+  .gpt3__header-content__input input,
+  .gpt3__header-content__input button {
+    font-size: 16px;
+    line-height: 24px;
+  }
 }
