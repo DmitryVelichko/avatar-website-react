@@ -72,7 +72,13 @@
 
 .gpt3__header-content__people {
   display: flex;
-  justify-content: center;
-  align-items: start;
+  justify-content: flex-start;
+  align-items: center;
   width: 100%;
+  margin-top: 2rem;
+}
+
+.gpt3__header-content__people img {
+  width: 181.79px;
+  height: 38px;
 }
