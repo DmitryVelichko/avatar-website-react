@@ -13,8 +13,8 @@ const featuresData = [
   },
 
   {
-    title: '',
-    text: '',
+    title: 'Message or am nothing',
+    text: 'Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.',
   },
 ];
 
