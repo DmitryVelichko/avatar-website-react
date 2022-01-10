@@ -1,6 +1,17 @@
 import React from 'react'
 import './features.css'
 
+const featuresData = [
+    {
+    title: '',
+    text: ''
+    },
+
+    
+
+
+]
+
 const Features = () => {
     return (
         <div className='gpt3__features section__padding' id='features'>
