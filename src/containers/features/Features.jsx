@@ -8,8 +8,8 @@ const featuresData = [
   },
 
   {
-    title: '',
-    text: '',
+    title: 'Become the tended active',
+    text: 'Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.',
   },
 
   {
