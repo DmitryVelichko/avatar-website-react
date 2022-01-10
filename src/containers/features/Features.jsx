@@ -3,7 +3,7 @@ import './features.css'
 
 const featuresData = [
   {
-    title: '',
+    title: 'Improving end distrusts instantly',
     text: '',
   },
 
