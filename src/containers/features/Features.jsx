@@ -5,7 +5,7 @@ const Features = () => {
     return (
         <div className='gpt3__features section__padding' id='features'>
             <div className='gpt3__features__heading'>
-                <h1 className="gradient-text"></h1>
+                <h1 className="gradient-text">The Future is Now and You Just Need To Realize It. Step into Future Today & Make it Happen.</h1>
             </div>
         </div>
     )
