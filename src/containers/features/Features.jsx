@@ -2,15 +2,21 @@ import React from 'react'
 import './features.css'
 
 const featuresData = [
-    {
+  {
     title: '',
-    text: ''
-    },
+    text: '',
+  },
 
-    
+  {
+    title: '',
+    text: '',
+  },
 
-
-]
+  {
+    title: '',
+    text: '',
+  },
+];
 
 const Features = () => {
     return (
