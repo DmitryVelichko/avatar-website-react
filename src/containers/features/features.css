@@ -23,3 +23,8 @@
     line-height: 45px;
 }
 
+.gpt3__features-heading p {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 500;
+}
