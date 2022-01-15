@@ -18,5 +18,10 @@
 }
 
 .gpt3__cta-content h3 {
-    
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 45px;
+    color: #000000;
 }
+
