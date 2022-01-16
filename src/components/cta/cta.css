@@ -25,3 +25,9 @@
     color: #000000;
 }
 
+.gpt3__cta-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 2rem;
+}
