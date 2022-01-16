@@ -31,3 +31,8 @@
   align-items: center;
   margin-left: 2rem;
 }
+
+.gpt3__cta-btn button {
+  background: #000000;
+  border-radius: 40px;
+}
