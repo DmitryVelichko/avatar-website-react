@@ -39,5 +39,7 @@
     flex-direction: column-reverse;
   }
 
- 
+  .gpt3__blog-container_groupA {
+    margin: 2rem 0;
+  }
 }
