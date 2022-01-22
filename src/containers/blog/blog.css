@@ -16,3 +16,8 @@
   line-height: 75px;
   letter-spacing: -0.04em;
 }
+
+.gpt3__blog-container {
+  display: flex;
+  flex-direction: row;
+}
