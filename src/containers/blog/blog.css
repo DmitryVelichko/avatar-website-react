@@ -44,6 +44,10 @@
   }
 
   .gpt3__blog-container_groupA .gpt3__blog-container_article {
-    width: 46.5%;
+    width: 48%;
+  }
+
+  .gpt3__blog-container_groupA .gpt3__blog-container_article-image {
+    width: 250px;
   }
 }
