@@ -26,4 +26,8 @@
     border: 1px solid #fff;
     box-sizing: border-box;
     font-family: var(--font-family);
+    font-size: 18px;
+    line-height: 21px;
+    color: #fff;
+    word-spacing: 2px;
 }
