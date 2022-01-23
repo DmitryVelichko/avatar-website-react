@@ -1,5 +1,4 @@
 .gpt3__footer {
-  color: white;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -73,4 +72,11 @@
     font-size: 12px;
     line-height: 14px;
     color: #fff;
+}
+
+.gpt3__footer-links_div {
+    color: #fff;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
 }
