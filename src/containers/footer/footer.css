@@ -85,4 +85,9 @@
   font-size: 14px;
   line-height: 16px;
   color: #fff;
+  margin-bottom: 1rem;
+}
+
+.gpt3__footer-links_div p {
+  font-family: var(--font-family);
 }
