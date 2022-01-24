@@ -92,4 +92,7 @@
   font-family: var(--font-family);
   font-size: 12px;
   line-height: 14px;
+  margin: 0.5rem 0;
+  color: #fff;
+  cursor: pointer;
 }
