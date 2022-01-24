@@ -104,5 +104,7 @@
 }
 
 .gpt3__footer-copyright p {
+  font-family: var(--font-family);
+  font-size: 12px;
   color: #fff;
 }
